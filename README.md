@@ -1,6 +1,6 @@
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>, I'm Ashwaq Khazi.
 </h1>
 
 <h3 align="center">I am a Student, Front-End Web Developer and a Data Science Enthusiast</h3>
